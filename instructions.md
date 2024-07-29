@@ -27,6 +27,7 @@
 
 ## Resources & Examples
 
+- [Google Slides: Math with Variables](https://docs.google.com/presentation/d/1VnChdB2BRBac2MwrQxUdTckRCgZqsvNoZHhzNWHgYRA/edit?usp=sharing)
 - [Python Input & Output by Colin Veldkamp](https://youtu.be/C106KyGhH_0?feature=shared)
 - [Python Simple Calculator by Colin Veldkamp](https://youtu.be/5Dzb4P6yvNc?feature=shared)
 
