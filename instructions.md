@@ -3,7 +3,9 @@
 
 ## Objective
 
-> *Objective*
+> *Understand the difference between input, processing, and output in programming*
+>
+> *Use the IPO Model to organize the code in your Python script*
 
 ## Getting Started
 
