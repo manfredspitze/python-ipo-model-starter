@@ -8,15 +8,9 @@
 ## Getting Started
 
 - Read instructions and review the project resources
-- Create a **public** GitHub repo named: **repo name**
+- Create a **public** GitHub repo named: **ipo_model**
     - Upload your project files to the repo
     - Submit the URL that points to your repo on Google Classroom
-
-## Sample Output
-
-![alt text](image.jpg)
-
-
 
 ## General Specifications
 
