@@ -31,8 +31,8 @@
 
 ## Resources & Examples
 
-- http://www.example.com
-- https://www.washingtonpost.com/
+- [Python Input & Output by Colin Veldkamp](https://youtu.be/C106KyGhH_0?feature=shared)
+- [Python Simple Calculator by Colin Veldkamp](https://youtu.be/5Dzb4P6yvNc?feature=shared)
 
 ## Your Tasks
 
