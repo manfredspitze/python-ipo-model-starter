@@ -24,10 +24,11 @@ print(8 // 2)
 
 
 
+# Part 3
+# Use the modulus operator to find and output the remainder when
+# you divide 13 by 6
 
 
-
-
-# Part 5
-# Comment
-# Comment
+# Part 4
+# Use the exponent operator to raise 20 to the power of 3
+# Output (display) the result
