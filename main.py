@@ -1,6 +1,6 @@
 # Student name
 # Current date
-# Simple Math in Python
+# PRIMM: Simple Math
 
 # Part 1
 # Add comments to predict what the following lines of code will do
