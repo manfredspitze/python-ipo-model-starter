@@ -30,6 +30,6 @@ print(8 // 2)
 
 
 # Part 4
-# Google the exponent operator for Python
+# Do an Internet search for the exponent operator for Python
 # Use the exponent operator to raise 20 to the power of 3
 # Output (display) the result
