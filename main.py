@@ -6,7 +6,7 @@
 # Add comments to predict what the following lines of code will do
 print(8 + 2)
 
-print( 8 - 2)
+print(8 - 2)
 
 print(8 * 2)
 
