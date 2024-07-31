@@ -1,31 +1,29 @@
 # Student name
 # Current date
-# Project title
+# Simple Math in Python
 
 # Part 1
-# Comment
-# Comment
+# Add comments to predict what the following lines of code will do
+print(8 + 2)
+
+print( 8 - 2)
+
+print(8 * 2)
+
+print(8 / 2)
+
+print(8 // 2)
 
 
 
 
 # Part 2
-# Comment
-# Comment
+# Write code that calculates and outputs (displays) these numbers: 2003, 1024, 42, 17
 
 
 
 
-# Part 3
-# Comment
-# Comment
 
-
-
-
-# Part 4
-# Comment
-# Comment
 
 
 
