@@ -19,3 +19,4 @@
 # calculates the tip for the server (at 15 percent)  (HINT: Convert 15% to its decimal equivalent)
 # displays the tip and the total price of the lunch separately
 # What built-in Python function lets you treat the user's input as a floating-point number? (A number containing a decimal point)
+# Search the Internet for the name of this function if you're not sure
