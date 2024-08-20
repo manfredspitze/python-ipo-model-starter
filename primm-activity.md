@@ -11,9 +11,9 @@ print(greeting)
 ### Questions
 Answer these questions about the code.  Be specific in your answers!
 
-1. Question 1
+1. What type of data is assigned to the variable *greeting*?
 > Answer 1
 
 
-2. Question 2
+2. What will the output be if you run this Python code?  What will the code do or show?
 > Answer 2
