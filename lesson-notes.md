@@ -23,6 +23,7 @@
 ### Arranging Your Code Using the IPO Model
 
 - Generally speaking, you can use the **IPO Model** to arrange/organize the code in your script
+- The IPO Model doesn't work for all scripts, but it will work for many of the scripts you write
   - Start by getting input from the user (prompting the user for some input)
   - Then **manipulate** or do something with that input
   - Finally, write the code to show the results or the answer Python generated for you
