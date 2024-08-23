@@ -38,3 +38,4 @@
 - Also complete the coding challenges in the following files in this starter repository:  
     - `math_challenge1.py`
     - `math_challenge2.py`
+- Be prepared to discuss your work with your teacher
