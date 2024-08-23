@@ -52,7 +52,7 @@ num_inches = float(num_inches) # Convert inches to a floating-point number
 # Do the math to convert inches to centimeters
 # CONVERSION_FACTOR is a Python constant, since it's capitalized and
 # the value of 2.54 inches per centimeter will never change (remains constant)
-CONVERSION_FACTOR = 2.54 # Every inch is equivalent to 2.54 centimeters
+CONVERSION_FACTOR = 2.54 # Each inch is equivalent to 2.54 centimeters
 num_cm = num_inches * CONVERSION_FACTOR
 
 # Output
