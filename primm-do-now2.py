@@ -17,4 +17,4 @@ print(result)
 
 
 # Task 2 
-# Write code that uses numbers stored in two variables and performs a calculation to output the number 42
+# Write code that uses numbers stored in two variables and performs a simmple calculation that outputs the number 42
