@@ -33,5 +33,5 @@
 
 ## Your Tasks
 
-- Task
+- Review the resources and examples before you start writing any code for this lesson
 - Task
