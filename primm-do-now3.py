@@ -2,7 +2,7 @@
 # Current date
 # Predict / Changing Variables
 
-# Task1 
+# Task 1 
 # Starting on the following line, add comments to the code to predict the output on lines 16, 17 and 21
 
 
