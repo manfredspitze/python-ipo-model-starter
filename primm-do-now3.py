@@ -34,4 +34,5 @@ print(name3)
 
 # Task 3
 # Write a script that uses variables and outputs a countdown from 10 to 0
+# HINT: See *Making Numerical Lists* in *Python Crash Course*, p. 57
 
