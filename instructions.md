@@ -34,8 +34,13 @@
 ## Your Tasks
 
 - Review the resources and examples before you start writing any code for this lesson
-- Then follow the instructions in the `main.py` file
+  
+- Then follow the instructions in the `main.py` file  
+
 - Also complete the coding challenges in the following files in this starter repository:  
-    - `math_challenge1.py`
-    - `math_challenge2.py`
+
+    - `math_challenge1.py`  
+
+    - `math_challenge2.py`  
+
 - Be prepared to discuss your work with your teacher
