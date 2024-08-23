@@ -25,6 +25,7 @@ print(name3)
 # Output the value stored in the variable
 # Multiply the variable by 10
 # Output the updated value with an f-string
+# See p. 21 in Python Crash Course if you don't remember how to create an f-string
 
 
 
