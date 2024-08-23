@@ -3,7 +3,7 @@
 # Predict / Changing Variables
 
 # Task1 
-# Add comments to the code to predict the output on lines 16, 17 and 21
+# Starting on the following line, add comments to the code to predict the output on lines 16, 17 and 21
 
 
 name1 = "Carlos"
