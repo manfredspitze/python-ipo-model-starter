@@ -24,7 +24,7 @@ print(name3)
 # Create a variable that stores the number 20
 # Output the value stored in the variable
 # Multiply the variable by 10
-# Output the updated value
+# Output the updated value with an f-string
 
 
 
